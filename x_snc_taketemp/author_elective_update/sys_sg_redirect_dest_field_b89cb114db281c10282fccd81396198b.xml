@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="DELETE">
+        <button display_value="New Navigation">cc9c3dd0db281c10282fccd8139619ce</button>
+        <button_table/>
+        <constant_value/>
+        <destination_ui_parameter display_value="Comments">467a5204732033003aebda013ef6a7a3</destination_ui_parameter>
+        <source_field/>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 07:23:45</sys_created_on>
+        <sys_id>b89cb114db281c10282fccd81396198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>467a5204732033003aebda013ef6a7a3</sys_name>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_b89cb114db281c10282fccd81396198b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 07:23:45</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</application>
+        <file_path/>
+        <instance_id>73fccf0adbdc1058f37acac50596190c</instance_id>
+        <instance_name>siademo</instance_name>
+        <name>sys_sg_redirect_dest_field_b89cb114db281c10282fccd81396198b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field"><sys_sg_redirect_dest_field action="INSERT_OR_UPDATE"><button display_value="New Navigation">cc9c3dd0db281c10282fccd8139619ce</button><button_table/><constant_value/><destination_ui_parameter display_value="Comments">467a5204732033003aebda013ef6a7a3</destination_ui_parameter><source_field/><source_ui_parameter/><sys_class_name>sys_sg_redirect_dest_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-29 07:23:45</sys_created_on><sys_id>b89cb114db281c10282fccd81396198b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>467a5204732033003aebda013ef6a7a3</sys_name><sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package><sys_policy/><sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope><sys_update_name>sys_sg_redirect_dest_field_b89cb114db281c10282fccd81396198b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-29 07:23:45</sys_updated_on><type>field</type></sys_sg_redirect_dest_field></record_update>]]></payload>
+        <payload_hash>-1556760787</payload_hash>
+        <record_name>467a5204732033003aebda013ef6a7a3</record_name>
+        <reverted_from/>
+        <source>07ee2910dbe41c10282fccd8139619e1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 07:23:45</sys_created_on>
+        <sys_id>f09cb114db281c10282fccd81396199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c4d1f1cf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 07:23:45</sys_updated_on>
+        <type>Redirection destination fields</type>
+        <update_guid>f89cb11417281c10c5b3cb7a566da699</update_guid>
+        <update_guid_history>f89cb11417281c10c5b3cb7a566da699:-1556760787</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 07:51:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_redirect_dest_field">sys_sg_redirect_dest_field</sys_db_object>
+        <sys_id>18704bbef44a4fb18a39325930037741</sys_id>
+        <sys_metadata>b89cb114db281c10282fccd81396198b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>467a5204732033003aebda013ef6a7a3</sys_name>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_scope_delete display_value="">83503fbd03ac4e78ab1b1c35d4db8c40</sys_scope_delete>
+        <sys_update_name>sys_sg_redirect_dest_field_b89cb114db281c10282fccd81396198b</sys_update_name>
+        <sys_update_version display_value="sys_sg_redirect_dest_field_b89cb114db281c10282fccd81396198b">f09cb114db281c10282fccd81396199a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 07:51:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

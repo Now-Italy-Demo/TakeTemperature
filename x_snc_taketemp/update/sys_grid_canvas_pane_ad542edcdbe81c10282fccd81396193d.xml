@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Temperature Tracking - New Tab">2b44eadcdbe81c10282fccd813961981</grid_canvas>
+        <height>18</height>
+        <portal_widget display_value="Created 29/04/2020 12:17:28">21542edcdbe81c10282fccd81396193b</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 10:17:28</sys_created_on>
+        <sys_id>ad542edcdbe81c10282fccd81396193d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>2b44eadcdbe81c10282fccd813961981</sys_name>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_ad542edcdbe81c10282fccd81396193d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 10:17:36</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+</record_update>

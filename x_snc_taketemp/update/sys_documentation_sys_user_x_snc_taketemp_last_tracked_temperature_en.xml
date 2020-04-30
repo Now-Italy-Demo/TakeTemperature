@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_snc_taketemp_last_tracked_temperature" label="Last Tracked Temperature" language="en" table="sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_snc_taketemp_last_tracked_temperature</element>
+            <help/>
+            <hint/>
+            <label>Last Tracked Temperature</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <plural>Last Tracked Temperatures</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-29 08:49:58</sys_created_on>
+            <sys_id>e7405a54dba81c10282fccd81396197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Last Tracked Temperature</sys_name>
+            <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+            <sys_update_name>sys_documentation_sys_user_x_snc_taketemp_last_tracked_temperature_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-29 08:49:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

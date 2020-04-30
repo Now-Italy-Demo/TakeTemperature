@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon/>
+        <name>Employees Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 06:32:00</sys_created_on>
+        <sys_id>3eb0f9d0dbe41c10282fccd8139619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employees Icon</sys_name>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_update_name>sys_sg_icon_3eb0f9d0dbe41c10282fccd8139619e7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 06:32:00</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="DELETE">
+        <applet_launcher display_value="Take Temperature">81e07dd0dbe41c10282fccd813961974</applet_launcher>
+        <order>10</order>
+        <quick_action_button/>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 07:24:14</sys_created_on>
+        <sys_id>c0bc3d14db281c10282fccd813961939</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_c0bc3d14db281c10282fccd813961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 07:24:14</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</application>
+        <file_path/>
+        <instance_id>73fccf0adbdc1058f37acac50596190c</instance_id>
+        <instance_name>siademo</instance_name>
+        <name>sys_sg_alp_quick_action_map_c0bc3d14db281c10282fccd813961939</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map"><sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE"><applet_launcher display_value="Take Temperature">81e07dd0dbe41c10282fccd813961974</applet_launcher><order>10</order><quick_action_button/><sys_class_name>sys_sg_alp_quick_action_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-29 07:24:14</sys_created_on><sys_id>c0bc3d14db281c10282fccd813961939</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package><sys_policy/><sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope><sys_update_name>sys_sg_alp_quick_action_map_c0bc3d14db281c10282fccd813961939</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-29 07:24:14</sys_updated_on></sys_sg_alp_quick_action_map></record_update>]]></payload>
+        <payload_hash>1363604333</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>07ee2910dbe41c10282fccd8139619e1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 07:26:02</sys_created_on>
+        <sys_id>4a1df154db281c10282fccd813961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c4d407f80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 07:26:02</sys_updated_on>
+        <type>Quick Actions Menu Map</type>
+        <update_guid>00bc3d14f7281c107d40b725db55f13b</update_guid>
+        <update_guid_history>00bc3d14f7281c107d40b725db55f13b:-1705736127,00bc3d14f7281c107d40b725db55f13b:-1705736127</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 07:26:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_alp_quick_action_map">sys_sg_alp_quick_action_map</sys_db_object>
+        <sys_id>35f0b8debd904d5db7bf44e8c3faba09</sys_id>
+        <sys_metadata>c0bc3d14db281c10282fccd813961939</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_scope_delete display_value="">83503fbd03ac4e78ab1b1c35d4db8c40</sys_scope_delete>
+        <sys_update_name>sys_sg_alp_quick_action_map_c0bc3d14db281c10282fccd813961939</sys_update_name>
+        <sys_update_version display_value="sys_sg_alp_quick_action_map_c0bc3d14db281c10282fccd813961939">4a1df154db281c10282fccd813961976</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 07:26:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

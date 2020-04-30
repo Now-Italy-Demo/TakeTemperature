@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Employees</name>
+        <query_condition table="sys_user">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 06:31:26</sys_created_on>
+        <sys_id>a69039d0dbe41c10282fccd813961938</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employees</sys_name>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_update_name>sys_sg_data_item_a69039d0dbe41c10282fccd813961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 06:31:26</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=a69039d0dbe41c10282fccd813961938"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</application>
+        <file_path/>
+        <instance_id>73fccf0adbdc1058f37acac50596190c</instance_id>
+        <instance_name>siademo</instance_name>
+        <name>sys_sg_data_item_a69039d0dbe41c10282fccd813961938</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>Employees</name><query_condition table="sys_user">active=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-29 06:31:26</sys_created_on><sys_id>a69039d0dbe41c10282fccd813961938</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Employees</sys_name><sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package><sys_policy/><sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope><sys_update_name>sys_sg_data_item_a69039d0dbe41c10282fccd813961938</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-29 06:31:26</sys_updated_on><table>sys_user</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=a69039d0dbe41c10282fccd813961938"/></record_update>]]></payload>
+        <payload_hash>1064973440</payload_hash>
+        <record_name>Employees</record_name>
+        <reverted_from/>
+        <source>07ee2910dbe41c10282fccd8139619e1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 06:31:26</sys_created_on>
+        <sys_id>ee9039d0dbe41c10282fccd81396193a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c4a20d640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 06:31:26</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>e69039d013e41c108f2e53a39068ee3a</update_guid>
+        <update_guid_history>e69039d013e41c108f2e53a39068ee3a:1064973440</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 07:38:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>01394b5f123b4f3c9b274c4dd66b6cc1</sys_id>
+        <sys_metadata>a69039d0dbe41c10282fccd813961938</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employees</sys_name>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_scope_delete display_value="">83503fbd03ac4e78ab1b1c35d4db8c40</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_a69039d0dbe41c10282fccd813961938</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_a69039d0dbe41c10282fccd813961938">ee9039d0dbe41c10282fccd81396193a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 07:38:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

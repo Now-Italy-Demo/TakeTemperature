@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true,allow_data_replicate=true,display_image=photo,edge_table_whitelist=true,global_search_config_handler=UserConfig,iterativeDelete=true,metadata_link_exempt=true,ref_ac_columns=email,ref_ac_columns_search=true,ref_ac_order_by=name,ref_auto_completer=AJAXTableCompleter" create_roles="user_admin" defaultsort="-1" dynamic_creation_script="dynamicUserCreation(current, value);" label="User" max_length="40" name="sys_user" sizeclass="853" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" choice_field="temperature" choice_table="x_snc_taketemp_temperature_record" label="Last Tracked Temperature" max_length="40" name="x_snc_taketemp_last_tracked_temperature" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Last Tracked Temperature Date" max_length="40" name="x_snc_taketemp_last_tracked_temperature_date" type="glide_date_time"/>
+    </element>
+</database>

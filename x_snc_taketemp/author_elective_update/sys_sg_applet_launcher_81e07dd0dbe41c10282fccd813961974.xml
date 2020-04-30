@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Take Temperature</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 06:32:43</sys_created_on>
+        <sys_id>81e07dd0dbe41c10282fccd813961974</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Take Temperature</sys_name>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_81e07dd0dbe41c10282fccd813961974</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 07:31:25</sys_updated_on>
+        <title>Take Temperature</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</application>
+        <file_path/>
+        <instance_id>73fccf0adbdc1058f37acac50596190c</instance_id>
+        <instance_name>siademo</instance_name>
+        <name>sys_sg_applet_launcher_81e07dd0dbe41c10282fccd813961974</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><active>true</active><available_offline>false</available_offline><header_button/><header_titles/><hide_empty_sections>true</hide_empty_sections><name>Take Temperature</name><required_roles/><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-29 06:32:43</sys_created_on><sys_id>81e07dd0dbe41c10282fccd813961974</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Take Temperature</sys_name><sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package><sys_policy/><sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope><sys_update_name>sys_sg_applet_launcher_81e07dd0dbe41c10282fccd813961974</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-29 07:31:25</sys_updated_on><title>Take Temperature</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>-148345850</payload_hash>
+        <record_name>Take Temperature</record_name>
+        <reverted_from/>
+        <source>07ee2910dbe41c10282fccd8139619e1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 07:31:25</sys_created_on>
+        <sys_id>895ef1d4db281c10282fccd813961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c4d8f5840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 07:31:25</sys_updated_on>
+        <type>Applet Launcher</type>
+        <update_guid>cd5ef1d47f281c10e741a672c0591768</update_guid>
+        <update_guid_history>cd5ef1d47f281c10e741a672c0591768:-148345850,652d35543a281c10ea63b649ee141ba3:-805655367,975cf9d058281c103ea2b4f6990bef3c:-148345850,271cf5d02f281c107e4084b2b4aa5839:1243461903,99e0bdd007e41c108699555ecfd5bedd:-50806079,99e0bdd007e41c108699555ecfd5bedd:-50806079,c1e0bdd0a9e41c104cbc4a0d46729ed2:-1442614929</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 07:55:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>3fa638462d294d1da38e9d0fedd2bdc9</sys_id>
+        <sys_metadata>81e07dd0dbe41c10282fccd813961974</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Take Temperature</sys_name>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_scope_delete display_value="">83503fbd03ac4e78ab1b1c35d4db8c40</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_81e07dd0dbe41c10282fccd813961974</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_81e07dd0dbe41c10282fccd813961974">895ef1d4db281c10282fccd813961969</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 07:55:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

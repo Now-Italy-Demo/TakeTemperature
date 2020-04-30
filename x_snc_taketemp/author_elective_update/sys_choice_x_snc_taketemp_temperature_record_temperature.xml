@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="temperature" table="x_snc_taketemp_temperature_record" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>temperature</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Minore di 37</label>
+            <language>en</language>
+            <name>x_snc_taketemp_temperature_record</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-29 06:27:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>619f2190dbe41c10282fccd8139619e3</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-29 06:27:58</sys_updated_on>
+            <value>&lt;37</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>temperature</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tra 37 e 38</label>
+            <language>en</language>
+            <name>x_snc_taketemp_temperature_record</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-29 06:27:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f9fe190dbe41c10282fccd8139619dd</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-29 06:28:00</sys_updated_on>
+            <value>37&lt;38</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>temperature</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maggiore di 38</label>
+            <language>en</language>
+            <name>x_snc_taketemp_temperature_record</name>
+            <sequence>15</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-29 06:27:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98bf6590dbe41c10282fccd81396196d</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-29 06:28:01</sys_updated_on>
+            <value>&gt;38</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>temperature</element>
+            <name>x_snc_taketemp_temperature_record</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-29 06:27:09</sys_created_on>
+            <sys_id>7f9fe190dbe41c10282fccd8139619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>temperature</sys_name>
+            <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+            <sys_update_name>sys_choice_x_snc_taketemp_temperature_record_temperature</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-29 06:27:09</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

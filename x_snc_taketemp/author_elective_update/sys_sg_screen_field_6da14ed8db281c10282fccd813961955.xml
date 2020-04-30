@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>email</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>60</order>
+        <record_id_field/>
+        <screen display_value="Details">91704298db281c10282fccd813961999</screen>
+        <screen_data_item_table>sys_user</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 07:45:55</sys_created_on>
+        <sys_id>6da14ed8db281c10282fccd813961955</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>email</sys_name>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_update_name>sys_sg_screen_field_6da14ed8db281c10282fccd813961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:41:43</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=6da14ed8db281c10282fccd813961955"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</application>
+        <file_path/>
+        <instance_id>73fccf0adbdc1058f37acac50596190c</instance_id>
+        <instance_name>siademo</instance_name>
+        <name>sys_sg_screen_field_6da14ed8db281c10282fccd813961955</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>email</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>60</order><record_id_field/><screen display_value="Details">91704298db281c10282fccd813961999</screen><screen_data_item_table>sys_user</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-29 07:45:55</sys_created_on><sys_id>6da14ed8db281c10282fccd813961955</sys_id><sys_mod_count>1</sys_mod_count><sys_name>email</sys_name><sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package><sys_policy/><sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope><sys_update_name>sys_sg_screen_field_6da14ed8db281c10282fccd813961955</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-29 08:41:43</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=6da14ed8db281c10282fccd813961955"/></record_update>]]></payload>
+        <payload_hash>-1003251755</payload_hash>
+        <record_name>email</record_name>
+        <reverted_from/>
+        <source>07ee2910dbe41c10282fccd8139619e1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 08:41:43</sys_created_on>
+        <sys_id>f26e4e90dba81c10282fccd813961970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c519521e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:41:43</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>ba6e4e902aa81c1014922e2228b97b6f</update_guid>
+        <update_guid_history>ba6e4e902aa81c1014922e2228b97b6f:-1003251755,61a14ed8fa281c10cb7ea0031836f957:1433395351</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-29 08:55:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>06aac863b0a242c880dffc2423054040</sys_id>
+        <sys_metadata>6da14ed8db281c10282fccd813961955</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>email</sys_name>
+        <sys_package display_value="TakeTemp" source="x_snc_taketemp">8bee2910dbe41c10282fccd8139619de</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TakeTemp">8bee2910dbe41c10282fccd8139619de</sys_scope>
+        <sys_scope_delete display_value="">83503fbd03ac4e78ab1b1c35d4db8c40</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_6da14ed8db281c10282fccd813961955</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_6da14ed8db281c10282fccd813961955">f26e4e90dba81c10282fccd813961970</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-29 08:55:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
